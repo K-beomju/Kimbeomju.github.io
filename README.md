@@ -1,8 +1,6 @@
 # Beomju's Resume
 
 안녕하세요 경기게임마이스터고등학교 2학년 김범주입니다.
-
-
 개발을 담당을 담당하고 있습니다
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
